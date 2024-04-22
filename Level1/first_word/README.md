@@ -1,9 +1,9 @@
 ## Subject
 
 ```
-Nombre del programa  : first_word
-Archivos esperados   : first_word.c
-Funciones permitidas: write
+Assignment name  : first_word
+Expected files   : first_word.c
+Allowed functions: write
 --------------------------------------------------------------------------------
 
 Escriba un programa que tome una cadena y muestre su primera palabra, seguida de una

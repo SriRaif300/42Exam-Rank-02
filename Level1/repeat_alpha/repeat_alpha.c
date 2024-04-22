@@ -6,13 +6,13 @@
 /*   By: cgaratej <cgaratej@student.42barcel>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/04 17:05:15 by cgaratej          #+#    #+#             */
-/*   Updated: 2024/03/04 17:29:27 by cgaratej         ###   ########.fr       */
+/*   Updated: 2024/04/22 09:47:48 by cgaratej         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-void ft_putchar(char c, int n)
+void	ft_putchar(char c, int n)
 {
 	while (n >= 0)
 	{
@@ -38,8 +38,7 @@ void	repeat_alpha(char *str)
 	}
 }
 
-
-int	main(int argc, char** argv)
+int	main(int argc, char **argv)
 {
 	if (argc == 2)
 		repeat_alpha(argv[1]);

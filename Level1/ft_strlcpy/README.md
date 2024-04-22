@@ -6,9 +6,9 @@ Expected files   : ft_strcpy.c
 Allowed functions:
 --------------------------------------------------------------------------------
 
-Reproduce the behavior of the function strcpy (man strcpy).
+Reproduce el comportamiento de la función strcpy (man strcpy).
 
-Your function must be declared as follows:
+Su función debe declararse de la siguiente manera:
 
 char    *ft_strcpy(char *s1, char *s2);
 ```

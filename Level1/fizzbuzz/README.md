@@ -1,9 +1,9 @@
 ## Sujeto
 
 ```
-Nombre del programa: fizzbuzz
-Archivos esperados: fizzbuzz.c
-Funciones permitidas: write
+Assignment name  : fizzbuzz
+Expected files   : fizzbuzz.c
+Allowed functions: write
 -------------------------------------------------- ------------------------------
 
 Escriba un programa que imprima los números del 1 al 100, cada uno separado por un

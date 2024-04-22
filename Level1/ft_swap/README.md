@@ -6,10 +6,10 @@ Expected files   : ft_swap.c
 Allowed functions:
 --------------------------------------------------------------------------------
 
-Write a function that swaps the contents of two integers the adresses of which
-are passed as parameters.
+Escriba una función que intercambie el contenido de dos números enteros 
+cuyas direcciones se pasan como parámetros.
 
-Your function must be declared as follows:
+Su función debe declararse de la siguiente manera:
 
 void	ft_swap(int *a, int *b);
 ```

@@ -6,12 +6,11 @@ Expected files   : ft_putstr.c
 Allowed functions: write
 --------------------------------------------------------------------------------
 
-Write a function that displays a string on the standard output.
+Escriba una función que muestre una cadena en la salida estándar.
 
-The pointer passed to the function contains the address of the string's first
-character.
+El puntero pasado a la función contiene la dirección del primer carácter de la cadena.
 
-Your function must be declared as follows:
+Su función debe declararse de la siguiente manera:
 
 void	ft_putstr(char *str);
 ```
